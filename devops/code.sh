@@ -1,1 +1,1 @@
-echo "Devops Assignment"
+echo "welcome to Devops"
